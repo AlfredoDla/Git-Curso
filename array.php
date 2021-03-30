@@ -22,6 +22,8 @@
         echo "$value <br />";
     }
 
+    echo "hola Mundo";
+
     $array4_asoci = array("primero"=>"texto primero", "segundo"=>2, "tercero"=>3);
     echo "<pre>";
     print_r($array1[2]);
